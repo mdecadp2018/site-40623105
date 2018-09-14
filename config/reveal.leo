@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -339,18 +339,20 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180915002241.2">#說明如何管理個人的期中作業網站內容
+<t tx="leo.20180915002241.2"># 說明如何管理個人的期中作業網站內容
 
 * 登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲.
-*將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
-*以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
-*動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
-*利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
-*確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.</t>
+* 將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
+* 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
+* 動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
+* 利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
+* 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
+
+</t>
 <t tx="leo.20180915003419.1"># 更改投影片
- 
-*可以從 reveal.js 中查看更多元的簡報 , 並用原始碼看demo
-*利用 SciTE 看 start 是否需要更改
+
+* 可以從 reveal.js 中查看更多元的簡報 , 並用原始碼看demo
+* 利用 SciTE 看 start 是否需要更改
 * 開啟 leo找到 tmp/site/config/reveal
 *更改的內容可以從動態localhost:8443查看
 </t>

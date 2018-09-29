@@ -138,7 +138,7 @@ make.start()
 
 <section data-markdown>
     <script type="text/template">
-# 管理個人的期中作業網站內容
+# ##管理個人的期中作業網站內容
 
 * 登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲.
 * 將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
@@ -146,6 +146,19 @@ make.start()
 * 動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
 * 利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
 * 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+### 開啟部落論壇區
+
+* 用leo開啟pelican.leo
+* 因為遠端牽涉到連結,所以先到pelican設定/遠端/@edit publishconf.py修改成SITEURL='https://mdecadp2018.github.io/site-40623105/blog'
+* 在pelican設定/@edit publishconf.py/修改課程名稱"mdecadp2018"
 
     </script>
 </section>

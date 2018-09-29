@@ -38,8 +38,11 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20180915002241.1" a="E"><vh>week 1</vh>
+<v t="leo.20180915002241.1"><vh>week 1</vh>
 <v t="leo.20180915002241.2"><vh> 說明如何管理個人的期中作業網站內容</vh></v>
+</v>
+<v t="leo.20180929163133.1" a="E"><vh>week 2</vh>
+<v t="leo.20180929163133.2"><vh> 說明如何讓部落格有論壇區</vh></v>
 </v>
 </v>
 </v>
@@ -338,7 +341,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180915002241.2"># 管理個人的期中作業網站內容
+<t tx="leo.20180915002241.2"># ##管理個人的期中作業網站內容
 
 * 登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲.
 * 將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
@@ -346,6 +349,22 @@ make.start()
 * 動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
 * 利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
 * 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
+
+</t>
+<t tx="leo.20180929163133.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180929163133.2">### 開啟部落論壇區
+
+* 用leo開啟pelican.leo
+* 因為遠端牽涉到連結,所以先到pelican設定/遠端/@edit publishconf.py修改成SITEURL='https://mdecadp2018.github.io/site-40623105/blog'
+* 在pelican設定/@edit publishconf.py/修改課程名稱"mdecadp2018"
 
 </t>
 </tnodes>

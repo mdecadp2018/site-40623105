@@ -44,8 +44,11 @@
 <v t="leo.20180929163133.1"><vh>week 2</vh>
 <v t="leo.20180929163133.2"><vh> 說明如何讓部落格有論壇區</vh></v>
 </v>
-<v t="leo.20181004230402.1" a="E"><vh>week 3</vh>
+<v t="leo.20181004230402.1"><vh>week 3</vh>
 <v t="leo.20181004230402.2"><vh>學習如何使用onshape</vh></v>
+</v>
+<v t="leo.20181011173216.1" a="E"><vh>week 4</vh>
+<v t="leo.20181011173216.2"><vh>學習onshape基本用法</vh></v>
 </v>
 </v>
 </v>
@@ -385,6 +388,26 @@ make.start()
 * 畫好草圖之後,Extrude擠出
 * 若要雙向擠出按Symmetric
 * 除料按Symmetric
+
+</t>
+<t tx="leo.20181011173216.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181011173216.2">### 學習onshape基本用法
+
+* revolve旋轉
+* sweep掃掠
+* loft斷面混成
+* thicken加厚
+* shell薄殼
+* pattern陣列
+* split切割
 
 </t>
 </tnodes>

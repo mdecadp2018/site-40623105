@@ -47,8 +47,11 @@
 <v t="leo.20181004230402.1"><vh>week 3</vh>
 <v t="leo.20181004230402.2"><vh>學習如何使用onshape</vh></v>
 </v>
-<v t="leo.20181011173216.1" a="E"><vh>week 4</vh>
+<v t="leo.20181011173216.1"><vh>week 4</vh>
 <v t="leo.20181011173216.2"><vh>學習onshape基本用法</vh></v>
+</v>
+<v t="leo.20181012155246.1" a="E"><vh>week 5</vh>
+<v t="leo.20181012155246.2"><vh>學習onshape基本用法</vh></v>
 </v>
 </v>
 </v>
@@ -408,6 +411,26 @@ make.start()
 * shell薄殼
 * pattern陣列
 * split切割
+
+</t>
+<t tx="leo.20181012155246.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181012155246.2">### 學習如何繪製時鐘
+
+* 繪製草圖,再做旋轉(revolve)
+* 外面倒圓角
+* 做一個時鐘的底面
+* 使用文字(text)指令,繪製時鐘的數字
+* 指針部分繪製:使用平面(plane)指令,建立工作平面,再繪製草圖並擠出
+* 繪製轉軸:先畫好需要的草圖,再做斷面混成(loft)並用(boolean)消除圓柱外多餘的材料
+* 繪製指針的刻度,並做環形陣列
 
 </t>
 </tnodes>

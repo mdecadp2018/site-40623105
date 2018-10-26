@@ -58,8 +58,13 @@
 <v t="leo.20181012155246.1"><vh>week 5</vh>
 <v t="leo.20181012155246.2"><vh>學習onshape基本用法</vh></v>
 </v>
-<v t="leo.20181025211108.1" a="E"><vh>week 6</vh>
-<v t="leo.20181025211108.2"><vh>利用記事本,安排人事時地物等關鍵內容</vh></v>
+<v t="leo.20181025211108.1"><vh>week 6</vh>
+<v t="leo.20181026103221.1"><vh>記事本-1</vh>
+<v t="leo.20181026103221.2"><vh>記事本內容-1</vh></v>
+</v>
+<v t="leo.20181026103251.1"><vh>記事本-2</vh>
+<v t="leo.20181026103251.2"><vh>記事本內容-1</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -429,29 +434,12 @@ make.start()
 * 繪製指針的刻度,並做環形陣列
 
 </t>
-<t tx="leo.20181025211108.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181025211108.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
-</t>
-<t tx="leo.20181025211108.2">### 利用記事本,安排人事時地物等關鍵內容
-
-* 人: 第九週前為個人學習 Onshape 
-
-* 事: 用 Onshape 繪出各 Lesson 中所要求的零組件外, 用手機或電腦的英英字典網羅所需了解的單字廣泛字義.
-
-* 時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統, 來提升電腦輔助設計與繪圖效益
-
-* 地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
-
-* 物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習.
-
-
-
 </t>
 <t tx="leo.20181026101905.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -491,6 +479,44 @@ make.start()
 * 將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
 
 * 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
+
+</t>
+<t tx="leo.20181026103221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026103221.2">### 利用記事本,安排人事時地物等關鍵內容
+
+* 人: 第九週前為個人學習 Onshape 
+
+* 事: 用 Onshape 繪出各 Lesson 中所要求的零組件外, 用手機或電腦的英英字典網羅所需了解的單字廣泛字義.
+
+* 時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統, 來提升電腦輔助設計與繪圖效益
+
+</t>
+<t tx="leo.20181026103251.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026103251.2">
+* 地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
+
+* 物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習.
+
 
 </t>
 </tnodes>

@@ -38,9 +38,9 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20180915002241.1"><vh>week 1</vh>
+<v t="leo.20180915002241.1" a="E"><vh>week 1</vh>
 <v t="leo.20180915002241.2"><vh> 說明如何管理個人的期中作業網站內容</vh></v>
-<v t="leo.20181026101905.1"><vh>期中作業-1</vh>
+<v t="leo.20181026101905.1" a="E"><vh>期中作業-1</vh>
 <v t="leo.20181026101905.2"><vh>期中作業內容-1</vh></v>
 </v>
 </v>
@@ -58,9 +58,6 @@
 </v>
 <v t="leo.20181025211108.1" a="E"><vh>week 6</vh>
 <v t="leo.20181025211108.2"><vh>利用記事本,安排人事時地物等關鍵內容</vh></v>
-<v t="leo.20181026102157.1" a="E"><vh>記事本-1</vh>
-<v t="leo.20181026102157.2"><vh>記事本內容-1</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -367,11 +364,7 @@ make.start()
 
 * 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
 
-* 動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
 
-* 利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
-
-* 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
 
 </t>
 <t tx="leo.20180929163133.1">&lt;section data-markdown&gt;
@@ -490,23 +483,6 @@ make.start()
 
 * 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
 
-</t>
-<t tx="leo.20181026102157.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181026102157.2">
-
-* 地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
-
-* 物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習.
 </t>
 </tnodes>
 </leo_file>

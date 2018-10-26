@@ -3,7 +3,7 @@
 
 https://github.com/mdecadp2018/site-40623105
 
-網誌: https://mdecadp2018.github.io/site-40623105
+網站: https://mdecadp2018.github.io/site-40623105
 
 投影片: https://mdecadp2018.github.io/site-40623105/reveal
 

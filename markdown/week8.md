@@ -7,14 +7,12 @@ Slug:week 8
 Author: 40623105
 ---
 
-動態網頁出現問題時處理方法
+學習如何畫組合圖
 
 <!-- PELICAN_END_SUMMARY -->
 
 課程內容
 ----
-
-學習如何畫組合圖
 
 1. insert 插入
 

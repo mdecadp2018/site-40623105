@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623105網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623105/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623105/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623105/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>week 7</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%207.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623105/blog/week 7.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623105網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>week 8</title><link href="./week%208.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-11-02:./week 8.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;動態網頁出現問題時處理方法&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;學習如何畫組合圖&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;insert 插入&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;entity 實體&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;mate connector 配對點&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fastened 接合的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;revolute 內捲的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;slider 滑動&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;planar 平面的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cylindrical 圓柱狀的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pin 針狀&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;solt 溝槽&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;parallel 平行&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;課程心得&lt;/h2&gt;
+&lt;p&gt;使用這個軟體,讓我背到很多英文單字,也讓我閱讀大量的英文,學習到很多平常不會看到的單字,收穫良多.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 7</title><link href="./week%207.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-10-29:./week 7.html</id><summary type="html">&lt;p&gt;動態網頁出現問題時處理方法&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;動態網頁出現問題時處理方法&lt;/p&gt;
 
 
@@ -16,7 +58,7 @@
 &lt;p&gt;如果還是無法處理問題,從課程issues回報問題&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
 &lt;p&gt;之前就有遇過動態出現問題,那個時候的 flaskapp.py 還沒有升級.
-但是其實從程式碼裡也可以找到問題,修改即可,但是新版的問題比較少,遇到問題時記得更新.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 6</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%206.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623105/blog/week 6.html</id><summary type="html">&lt;p&gt;利用記事本,安排人事時地物等關鍵內容&lt;/p&gt;
+但是其實從程式碼裡也可以找到問題,修改即可,但是新版的問題比較少,遇到問題時記得更新.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 6</title><link href="./week%206.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-10-19:./week 6.html</id><summary type="html">&lt;p&gt;利用記事本,安排人事時地物等關鍵內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用記事本,安排人事時地物等關鍵內容&lt;/p&gt;
 
 
@@ -28,7 +70,7 @@
 &lt;p&gt;物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習.&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
 &lt;p&gt;利用記事本能清楚自己的行程,更能有效的掌握各組的進度.
-組員的進度也能互相的掌握,配合也能更有效率.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 5</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%205.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623105/blog/week 5.html</id><summary type="html">&lt;p&gt;學習如何繪製時鐘&lt;/p&gt;
+組員的進度也能互相的掌握,配合也能更有效率.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 5</title><link href="./week%205.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-10-12:./week 5.html</id><summary type="html">&lt;p&gt;學習如何繪製時鐘&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;學習如何繪製時鐘&lt;/p&gt;
 
 
@@ -41,7 +83,7 @@
 &lt;p&gt;6.繪製轉軸:先畫好需要的草圖,再做斷面混成(loft)並用(boolean)消除圓柱外多餘的材料&lt;/p&gt;
 &lt;p&gt;5.繪製指針的刻度,並做環形陣列&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
-&lt;p&gt;有很多的單字用中文翻譯不太出來,只能用英翻英的辭典慢慢的查,雖然動作比較慢,但是可以學到更多的單字,說明的也比中翻英的辭典還要清楚.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 4</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%204.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623105/blog/week 4.html</id><summary type="html">&lt;p&gt;學習onshape基本用法&lt;/p&gt;
+&lt;p&gt;有很多的單字用中文翻譯不太出來,只能用英翻英的辭典慢慢的查,雖然動作比較慢,但是可以學到更多的單字,說明的也比中翻英的辭典還要清楚.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 4</title><link href="./week%204.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-10-05:./week 4.html</id><summary type="html">&lt;p&gt;學習onshape基本用法&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;學習onshape基本用法&lt;/p&gt;
 
 
@@ -54,7 +96,7 @@
 &lt;p&gt;6.pattern陣列&lt;/p&gt;
 &lt;p&gt;7.split切割&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
-&lt;p&gt;這個繪圖軟體雖然跟invento差不多,但是是英文版的,雖然有圖案的輔助學習起來並不是太困難,但還是希望英文能有所提升,且單字量能增加.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 3</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%203.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623105/blog/week 3.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+&lt;p&gt;這個繪圖軟體雖然跟invento差不多,但是是英文版的,雖然有圖案的輔助學習起來並不是太困難,但還是希望英文能有所提升,且單字量能增加.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 3</title><link href="./week%203.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-09-28:./week 3.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 
 
@@ -64,7 +106,7 @@
 &lt;p&gt;3.若要雙向擠出按Symmetric&lt;/p&gt;
 &lt;p&gt;4.除料按Symmetric&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
-&lt;p&gt;這個禮拜遇到了自己無法解決的問題,所以問了同學遠端無法推上去該怎麼解決,雖然後來是推上去了,但是出現了很多標題重疊的問題,最後問了老師該如何解決衝突,老師才說那是程式本身的bog.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 2</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%202.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623105/blog/week 2.html</id><summary type="html">&lt;p&gt;開啟部落論壇區&lt;/p&gt;
+&lt;p&gt;這個禮拜遇到了自己無法解決的問題,所以問了同學遠端無法推上去該怎麼解決,雖然後來是推上去了,但是出現了很多標題重疊的問題,最後問了老師該如何解決衝突,老師才說那是程式本身的bog.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 2</title><link href="./week%202.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-09-21:./week 2.html</id><summary type="html">&lt;p&gt;開啟部落論壇區&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;開啟部落論壇區&lt;/p&gt;
 
 
@@ -73,7 +115,7 @@
 &lt;p&gt;2.因為遠端牽涉到連結,所以先到pelican設定/遠端/@edit publishconf.py修改成SITEURL='https://mdecadp2018.github.io/site-40623105/blog'&lt;/p&gt;
 &lt;p&gt;3.在pelican設定/@edit publishconf.py/修改課程名稱"mdecadp2018"&lt;/p&gt;
 &lt;h2&gt;課程心得&lt;/h2&gt;
-&lt;p&gt;這次上課進度有比較跟的上,並保持每周更新投影片,部落格,網誌,來提高學習效率.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 1</title><link href="https://mdecadp2018.github.io/site-40623105/blog/week%201.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623105/blog/week 1.html</id><summary type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
+&lt;p&gt;這次上課進度有比較跟的上,並保持每周更新投影片,部落格,網誌,來提高學習效率.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 1</title><link href="./week%201.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623105</name></author><id>tag:None,2018-09-14:./week 1.html</id><summary type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
 
 

@@ -66,13 +66,16 @@
 <v t="leo.20181026103251.2"><vh>記事本內容-1</vh></v>
 </v>
 </v>
-<v t="leo.20181101182516.1" a="E"><vh>week 7</vh>
+<v t="leo.20181101182516.1"><vh>week 7</vh>
 <v t="leo.20181101182516.2" a="E"><vh>處理靜態網頁問題-1</vh>
 <v t="leo.20181101182516.3"><vh>處理靜態網頁內容-1</vh></v>
 </v>
 <v t="leo.20181101182516.4" a="E"><vh>處理靜態網頁問題-2</vh>
 <v t="leo.20181101182516.5"><vh>處理靜態網頁問題-2</vh></v>
 </v>
+</v>
+<v t="leo.20181108222141.1" a="E"><vh>week 8</vh>
+<v t="leo.20181108222141.2"><vh>學習onshape基本用法</vh></v>
 </v>
 </v>
 </v>
@@ -579,6 +582,30 @@ make.start()
 * 2.回報問題:
 
 * 如果還是無法處理問題,從課程issues回報問題
+
+</t>
+<t tx="leo.20181108222141.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108222141.2">### 學習如何畫組合圖
+
+* insert 插入
+* entity 實體
+* mate connector 配對點
+* fastened 接合的
+* revolute 內捲的
+* slider 滑動
+* planar 平面的
+* cylindrical 圓柱狀的
+* pin 針狀
+* solt 溝槽
+* parallel 平行
 
 </t>
 </tnodes>

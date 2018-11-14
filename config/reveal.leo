@@ -77,7 +77,7 @@
 <v t="leo.20181108222141.1"><vh>week 8</vh>
 <v t="leo.20181108222141.2"><vh>學習如何畫組合圖</vh></v>
 </v>
-<v t="leo.20181114204903.1"><vh>week 9</vh>
+<v t="leo.20181114204903.1" a="E"><vh>week 9</vh>
 <v t="leo.20181114204903.2" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-1</vh>
 <v t="leo.20181114204903.3"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-1</vh></v>
 </v>
@@ -679,12 +679,12 @@ make.start()
 <t tx="leo.20181114205258.2">
 
 
-*進入githubclass→craete a group assignment→打組別名字 ( ex:final project )
+* 進入githubclass→craete a group assignment→打組別名字 ( ex:final project )
 →打開管理權(起始為mdecrouse/2018fall)→設定人數為6人→deadline為 01/11→new team (bgx)→取得連結
 
-*組長新建new team(本組為ag2)
+* 組長新建new team(本組為ag2)
 
-*組員join即可
+* 組員join即可
 
 
 </t>

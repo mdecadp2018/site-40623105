@@ -95,8 +95,11 @@
 <v t="leo.20181114205824.1"><vh>week 9</vh>
 <v t="leo.20181114205824.2"><vh>@edit week9.md</vh></v>
 </v>
-<v t="leo.20181126203019.1" a="E"><vh>week 10</vh>
+<v t="leo.20181126203019.1"><vh>week 10</vh>
 <v t="leo.20181126203019.2"><vh>@edit week10.md</vh></v>
+</v>
+<v t="leo.20181126211937.1" a="E"><vh>week 11</vh>
+<v t="leo.20181126211937.2"><vh>@edit week11.md</vh></v>
 </v>
 </v>
 </v>
@@ -139,6 +142,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181108223051.1"></t>
 <t tx="leo.20181114205824.1"></t>
 <t tx="leo.20181126203019.1"></t>
+<t tx="leo.20181126211937.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

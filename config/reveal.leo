@@ -81,11 +81,19 @@
 <v t="leo.20181114204903.2" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-1</vh>
 <v t="leo.20181114204903.3"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-1</vh></v>
 </v>
-<v t="leo.20181114204903.4"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-2</vh>
+<v t="leo.20181114204903.4" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-2</vh>
 <v t="leo.20181114204903.5"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-2</vh></v>
 </v>
 <v t="leo.20181114205258.1" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-3</vh>
 <v t="leo.20181114205258.2"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-3</vh></v>
+</v>
+</v>
+<v t="leo.20181126215836.1"><vh>week 11</vh>
+<v t="leo.20181126215836.2" a="E"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-1</vh>
+<v t="leo.20181126215836.3"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-內容1</vh></v>
+</v>
+<v t="leo.20181126215836.4" a="E"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-1</vh>
+<v t="leo.20181126215836.5"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-內容2</vh></v>
 </v>
 </v>
 </v>
@@ -686,6 +694,56 @@ make.start()
 
 * 組員join即可
 
+
+</t>
+<t tx="leo.20181126215836.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181126215836.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181126215836.3">#### 利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步
+
+
+* 先創一個heroku的帳號
+* 登入後,按new → create new app →名字打 cadp2018-ag2-m2
+* 先去 start.bat 路徑設定 %Disk%:\heroku\bin;
+* 在從命令列打heroku--version→ heroku login
+* 再從settings找到https://git.heroku.com/cadp2018-ag2-m2.git 的網址
+
+
+</t>
+<t tx="leo.20181126215836.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181126215836.5">
+
+
+* 至https://github.com/mdecadp2018/finalproject-ag2 fork自己的帳號
+* git clone https://github.com/mdecadp2018/finalproject-ag2 至tmp底下的資料夾ag2
+* git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
+* 將ag2資料夾中的檔案複製到ag2-m2的資料夾中
+* git add .→ git commit -m""→git push 
 
 </t>
 </tnodes>

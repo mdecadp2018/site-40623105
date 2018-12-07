@@ -96,6 +96,9 @@
 <v t="leo.20181126215836.5"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-內容2</vh></v>
 </v>
 </v>
+<v t="leo.20181207091056.1"><vh>week 12</vh>
+<v t="leo.20181207091056.2"><vh>學習如何畫組合圖</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -744,6 +747,26 @@ make.start()
 * git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
 * 將ag2資料夾中的檔案複製到ag2-m2的資料夾中
 * git add .→ git commit -m""→git push 
+
+</t>
+<t tx="leo.20181207091056.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181207091056.2">### 分組的期末專題版面架構
+
+* introduction介紹:(a)專題名稱(b)members組員 
+* course課程:每週組別學習紀錄
+* onshape:翻譯網站內容,用法 
+* independent study自主學習:組員自主學習進度與內容
+* issue＆solution問題與解決方法:各組遇到的問題與如何解決問題
+* experience心得:各組組員分組專題後的心得感想
+* attend＆absence出缺席:記錄各組出席狀況
 
 </t>
 </tnodes>

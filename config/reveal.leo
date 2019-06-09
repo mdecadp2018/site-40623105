@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -39,11 +39,20 @@
 </v>
 </v>
 <v t="leo.20180915002241.1" a="E"><vh>week 11</vh>
-<v t="leo.20181026102900.1" a="E"><vh>期中作業-1</vh>
-<v t="leo.20181026102900.2"><vh>期中作業內容-1</vh></v>
+<v t="leo.20181026102900.1"><vh>尺寸設計</vh>
+<v t="leo.20181026102900.2"><vh>尺寸設計內容</vh></v>
 </v>
-<v t="leo.20181026101905.1" a="E"><vh>期中作業-2</vh>
-<v t="leo.20181026101905.2"><vh>期中作業內容-2</vh></v>
+<v t="leo.20181026101905.1"><vh>球桌草圖</vh>
+<v t="leo.20181026101905.2"><vh>球桌圖片</vh></v>
+</v>
+<v t="leo.20190609234928.1"><vh>桿子草圖</vh>
+<v t="leo.20190609234928.2"><vh>桿子圖片</vh></v>
+</v>
+<v t="leo.20190609235032.1"><vh>球員草圖</vh>
+<v t="leo.20190609235032.2"><vh>球員圖片</vh></v>
+</v>
+<v t="leo.20190609235139.1"><vh>手柄草圖</vh>
+<v t="leo.20190609235139.2"><vh>手柄圖片</vh></v>
 </v>
 </v>
 <v t="leo.20180929163133.1" a="E"><vh>week 2</vh>
@@ -474,13 +483,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026101905.2">
+<t tx="leo.20181026101905.2">### 球桌草圖
 
-* 動態網頁內容確定後, 提交推送到遠端前, 要先從靜態 tmp 內 git clone 的資料夾找到 https-server.py
+&lt;img src ="./../images/草圖球桌.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
-* 利用 SciTE 執行 site 倉儲中的 http-server.py, 在近端以 https://localhost:8444 檢查靜態網頁的內容.
 
-* 確認靜態網頁內容後, 再設法以 git add, git commit, git push 將新版內容送到遠端.
 
 </t>
 <t tx="leo.20181026102900.1">&lt;section data-markdown&gt;
@@ -494,13 +501,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026102900.2">### git
+<t tx="leo.20181026102900.2">### w11
 
-* 登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲.
+* 這週的進度是分配工作，一開始因為還要設計及畫圖，所以這週整組先一起設計球桌大小及各個零件的大小，並上網查資料再一起討論。
 
-* 將此倉儲 git clone 到近端, 利用 git checkout 從內定的 master 分支, 切換到 gh-pages
-
-* 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
+* [查看組內尺寸設計](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%B0%BA%E5%AF%B8%E5%88%86%E6%9E%90.html)
 
 </t>
 <t tx="leo.20181026103221.1">&lt;section data-markdown&gt;
@@ -685,6 +690,60 @@ make.start()
 * 組長新建new team(本組為ag2)
 
 * 組員join即可
+
+
+</t>
+<t tx="leo.20190609234928.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609234928.2">### 桿子草圖
+
+&lt;img src ="./../images/桿子草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+
+
+</t>
+<t tx="leo.20190609235032.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609235032.2">### 球員草圖
+
+&lt;img src ="./../images/球員草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+
+
+</t>
+<t tx="leo.20190609235139.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609235139.2">### 手柄草圖
+
+&lt;img src ="./../images/手柄草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 
 </t>

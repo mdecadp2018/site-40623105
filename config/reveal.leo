@@ -39,28 +39,13 @@
 </v>
 </v>
 <v t="leo.20180915002241.1" a="E"><vh>week 11</vh>
-<v t="leo.20181026102900.1"><vh>尺寸設計</vh>
+<v t="leo.20181026102900.1" a="E"><vh>尺寸設計</vh>
 <v t="leo.20181026102900.2"><vh>尺寸設計內容</vh></v>
-</v>
-<v t="leo.20181026101905.1"><vh>球桌草圖</vh>
-<v t="leo.20181026101905.2"><vh>球桌圖片</vh></v>
-</v>
-<v t="leo.20190609234928.1"><vh>桿子草圖</vh>
-<v t="leo.20190609234928.2"><vh>桿子圖片</vh></v>
-</v>
-<v t="leo.20190609235032.1"><vh>球員草圖</vh>
-<v t="leo.20190609235032.2"><vh>球員圖片</vh></v>
-</v>
-<v t="leo.20190609235139.1"><vh>手柄草圖</vh>
-<v t="leo.20190609235139.2"><vh>手柄圖片</vh></v>
 </v>
 </v>
 <v t="leo.20190610000412.1" a="E"><vh>week 12</vh>
 <v t="leo.20190610000412.2" a="E"><vh>簡化12</vh>
 <v t="leo.20190610000412.3"><vh>簡化12內容</vh></v>
-</v>
-<v t="leo.20190610000711.1" a="E"><vh>影片12</vh>
-<v t="leo.20190610000711.2"><vh>影片12內容</vh></v>
 </v>
 </v>
 <v t="leo.20181004230402.1"><vh>week 3</vh>
@@ -461,24 +446,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026101905.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181026101905.2">### 球桌草圖
-
-&lt;img src ="./../images/草圖球桌.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-
-
-
-</t>
 <t tx="leo.20181026102900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -682,60 +649,6 @@ make.start()
 
 
 </t>
-<t tx="leo.20190609234928.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190609234928.2">### 桿子草圖
-
-&lt;img src ="./../images/桿子草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-
-
-
-</t>
-<t tx="leo.20190609235032.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190609235032.2">### 球員草圖
-
-&lt;img src ="./../images/球員草圖.png"  width="780" height="500"&lt;/img&gt;
-
-
-
-</t>
-<t tx="leo.20190609235139.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190609235139.2">### 手柄草圖
-
-&lt;img src ="./../images/手柄草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
-
-
-
-</t>
 <t tx="leo.20190610000412.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -760,25 +673,7 @@ make.start()
 
 * 將樹狀圖處理好成可以轉動的狀態，但只能轉動不能左右移動，還再進行修改。
 
-
-</t>
-<t tx="leo.20190610000711.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190610000711.2">### 球員草圖
-
-&lt;iframe src="https://youtu.be/QPWfPGLW2BE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-
-
+* [操作影片網址](https://youtu.be/QPWfPGLW2BE)
 
 </t>
 </tnodes>

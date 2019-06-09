@@ -45,18 +45,23 @@
 <v t="leo.20181026101905.1"><vh>球桌草圖</vh>
 <v t="leo.20181026101905.2"><vh>球桌圖片</vh></v>
 </v>
-<v t="leo.20190609234928.1" a="E"><vh>桿子草圖</vh>
+<v t="leo.20190609234928.1"><vh>桿子草圖</vh>
 <v t="leo.20190609234928.2"><vh>桿子圖片</vh></v>
 </v>
-<v t="leo.20190609235032.1" a="E"><vh>球員草圖</vh>
+<v t="leo.20190609235032.1"><vh>球員草圖</vh>
 <v t="leo.20190609235032.2"><vh>球員圖片</vh></v>
 </v>
 <v t="leo.20190609235139.1"><vh>手柄草圖</vh>
 <v t="leo.20190609235139.2"><vh>手柄圖片</vh></v>
 </v>
 </v>
-<v t="leo.20180929163133.1" a="E"><vh>week 2</vh>
-<v t="leo.20180929163133.2"><vh> 說明如何讓部落格有論壇區</vh></v>
+<v t="leo.20190610000412.1" a="E"><vh>week 12</vh>
+<v t="leo.20190610000412.2" a="E"><vh>簡化12</vh>
+<v t="leo.20190610000412.3"><vh>簡化12內容</vh></v>
+</v>
+<v t="leo.20190610000711.1" a="E"><vh>影片12</vh>
+<v t="leo.20190610000711.2"><vh>影片12內容</vh></v>
+</v>
 </v>
 <v t="leo.20181004230402.1"><vh>week 3</vh>
 <v t="leo.20181004230402.2"><vh>學習如何使用onshape</vh></v>
@@ -391,22 +396,6 @@ make.start()
 
 
 						
-</t>
-<t tx="leo.20180929163133.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180929163133.2">### 開啟部落論壇區
-
-* 用leo開啟pelican.leo
-* 因為遠端牽涉到連結,所以先到pelican設定/遠端/@edit publishconf.py修改成SITEURL='https://mdecadp2018.github.io/site-40623105/blog'
-* 在pelican設定/@edit publishconf.py/修改課程名稱"mdecadp2018"
-
 </t>
 <t tx="leo.20181004230402.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -743,6 +732,51 @@ make.start()
 <t tx="leo.20190609235139.2">### 手柄草圖
 
 &lt;img src ="./../images/手柄草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
+
+
+</t>
+<t tx="leo.20190610000412.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610000412.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610000412.3">### w12
+
+* 這週的進度是先用之前的圖檔熟悉簡化的操作，並處理樹狀圖，嘗試模擬。
+
+* 將樹狀圖處理好成可以轉動的狀態，但只能轉動不能左右移動，還再進行修改。
+
+
+</t>
+<t tx="leo.20190610000711.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610000711.2">### 球員草圖
+
+&lt;iframe src="https://youtu.be/QPWfPGLW2BE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 

@@ -45,10 +45,10 @@
 <v t="leo.20181026101905.1"><vh>球桌草圖</vh>
 <v t="leo.20181026101905.2"><vh>球桌圖片</vh></v>
 </v>
-<v t="leo.20190609234928.1"><vh>桿子草圖</vh>
+<v t="leo.20190609234928.1" a="E"><vh>桿子草圖</vh>
 <v t="leo.20190609234928.2"><vh>桿子圖片</vh></v>
 </v>
-<v t="leo.20190609235032.1"><vh>球員草圖</vh>
+<v t="leo.20190609235032.1" a="E"><vh>球員草圖</vh>
 <v t="leo.20190609235032.2"><vh>球員圖片</vh></v>
 </v>
 <v t="leo.20190609235139.1"><vh>手柄草圖</vh>
@@ -724,7 +724,7 @@ make.start()
 </t>
 <t tx="leo.20190609235032.2">### 球員草圖
 
-&lt;img src ="./../images/球員草圖.png"  width="780" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+&lt;img src ="./../images/球員草圖.png"  width="780" height="500"&lt;/img&gt;
 
 
 

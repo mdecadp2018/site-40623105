@@ -24,67 +24,34 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-<v t="leo.20180915002241.1" a="E"><vh>week 11</vh>
-<v t="leo.20181026102900.1" a="E"><vh>尺寸設計</vh>
+<v t="leo.20180915002241.1"><vh>week 11</vh>
+<v t="leo.20181026102900.1"><vh>尺寸設計</vh>
 <v t="leo.20181026102900.2"><vh>尺寸設計內容</vh></v>
 </v>
 </v>
-<v t="leo.20190610000412.1" a="E"><vh>week 12</vh>
+<v t="leo.20190610000412.1"><vh>week 12</vh>
 <v t="leo.20190610000412.2" a="E"><vh>簡化12</vh>
 <v t="leo.20190610000412.3"><vh>簡化12內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004230402.1"><vh>week 3</vh>
-<v t="leo.20181004230402.2"><vh>學習如何使用onshape</vh></v>
-</v>
-<v t="leo.20181011173216.1"><vh>week 4</vh>
-<v t="leo.20181011173216.2"><vh>學習onshape基本用法</vh></v>
-</v>
-<v t="leo.20181012155246.1"><vh>week 5</vh>
-<v t="leo.20181012155246.2"><vh>學習onshape基本用法</vh></v>
-</v>
-<v t="leo.20181025211108.1"><vh>week 6</vh>
-<v t="leo.20181026103221.1" a="E"><vh>記事本-1</vh>
-<v t="leo.20181026103221.2"><vh>記事本內容-1</vh></v>
-</v>
-<v t="leo.20181026103251.1"><vh>記事本-2</vh>
-<v t="leo.20181026103251.2"><vh>記事本內容-1</vh></v>
+<v t="leo.20190610001935.1"><vh>week 13</vh>
+<v t="leo.20190610001935.2" a="E"><vh>簡化13</vh>
+<v t="leo.20190610001935.3"><vh>簡化13內容</vh></v>
 </v>
 </v>
-<v t="leo.20181101182516.1"><vh>week 7</vh>
-<v t="leo.20181101182516.2" a="E"><vh>處理靜態網頁問題-1</vh>
-<v t="leo.20181101182516.3"><vh>處理靜態網頁內容-1</vh></v>
-</v>
-<v t="leo.20181101182516.4" a="E"><vh>處理靜態網頁問題-2</vh>
-<v t="leo.20181101182516.5"><vh>處理靜態網頁問題-2</vh></v>
+<v t="leo.20190610002138.1"><vh>week 14</vh>
+<v t="leo.20190610002138.2"><vh>簡化14</vh>
+<v t="leo.20190610002138.3"><vh>簡化14內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108222141.1"><vh>week 8</vh>
-<v t="leo.20181108222141.2"><vh>學習如何畫組合圖</vh></v>
+<v t="leo.20190610002525.1"><vh>week 15</vh>
+<v t="leo.20190610002525.2" a="E"><vh>簡化15</vh>
+<v t="leo.20190610002525.3"><vh>簡化15內容</vh></v>
 </v>
-<v t="leo.20181114204903.1" a="E"><vh>week 12</vh>
-<v t="leo.20181114204903.2" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-1</vh>
-<v t="leo.20181114204903.3"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-1</vh></v>
 </v>
-<v t="leo.20181114204903.4" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-2</vh>
-<v t="leo.20181114204903.5"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-2</vh></v>
-</v>
-<v t="leo.20181114205258.1" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-3</vh>
-<v t="leo.20181114205258.2"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-3</vh></v>
+<v t="leo.20190610002727.1"><vh>week 16</vh>
+<v t="leo.20190610002727.2" a="E"><vh>簡化16</vh>
+<v t="leo.20190610002727.3"><vh>簡化16內容</vh></v>
 </v>
 </v>
 </v>
@@ -183,103 +150,11 @@ Created by [40623105](https://mdecadp2018.github.io/site-40623105)
 
 [40623105 github 個人倉儲](https://github.com/mdecadp2018/site-40623105)
 
+[ag3小組倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g3_1)
 
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+[scrum-1/cd 2019a](https://github.com/scrum-1/cd2019a)
 
 
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -382,70 +257,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181004230402.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181004230402.2">### 學習如何使用onshape
-
-* 按下Sketch新建草稿
-* 畫好草圖之後,Extrude擠出
-* 若要雙向擠出按Symmetric
-* 除料按Symmetric
-
-</t>
-<t tx="leo.20181011173216.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181011173216.2">### 學習onshape基本用法
-
-* revolve旋轉
-* sweep掃掠
-* loft斷面混成
-* thicken加厚
-* shell薄殼
-* pattern陣列
-* split切割
-
-</t>
-<t tx="leo.20181012155246.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181012155246.2">### 學習如何繪製時鐘
-
-* 繪製草圖,再做旋轉(revolve)
-* 外面倒圓角
-* 做一個時鐘的底面
-* 使用文字(text)指令,繪製時鐘的數字
-* 指針部分繪製:使用平面(plane)指令,建立工作平面,再繪製草圖並擠出
-* 繪製轉軸:先畫好需要的草圖,再做斷面混成(loft)並用(boolean)消除圓柱外多餘的材料
-* 繪製指針的刻度,並做環形陣列
-
-</t>
-<t tx="leo.20181025211108.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20181026102900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -462,191 +273,6 @@ make.start()
 * 這週的進度是分配工作，一開始因為還要設計及畫圖，所以這週整組先一起設計球桌大小及各個零件的大小，並上網查資料再一起討論。
 
 * [查看組內尺寸設計](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%B0%BA%E5%AF%B8%E5%88%86%E6%9E%90.html)
-
-</t>
-<t tx="leo.20181026103221.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181026103221.2">#### 利用記事本,安排人事時地物等關鍵內容
-
-* 人: 第九週前為個人學習 Onshape 
-
-* 事: 用 Onshape 繪出各 Lesson 中所要求的零組件外, 用手機或電腦的英英字典網羅所需了解的單字廣泛字義.
-
-* 時: 在不同時間點, 即便個人也會需要使用分散式版次管理系統, 來提升電腦輔助設計與繪圖效益
-
-</t>
-<t tx="leo.20181026103251.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181026103251.2">
-* 地: 由於採用可攜與雲端系統, 可以降低因為不同地點電腦套件的版本、內容與設定差異所造成的輔助設計問題.
-
-* 物: 主要採用可攜與雲端系統, 並且在 github classroom 中上課, 每位學員都可以彼此從網站、簡報與網誌中的內容互相觀摩學習.
-
-
-</t>
-<t tx="leo.20181101182516.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181101182516.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181101182516.3">### 動態網頁出現問題時處理方法
-
-* 使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程
-
-* 1.更新程式碼:
-
-* 從 https://localhost8443 啟動動態網頁
-
-* 動態資料放在config/content.htm
-
-* 動態網頁出問題時可能是系統無法處理,要解決版本的問題
-
-</t>
-<t tx="leo.20181101182516.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181101182516.5">
-* 舊的程式沒辦法用圖片當作標題,程式升級後就不會產生錯誤
-
-* 升級flaskapp.py試著用同樣程式處理
-
-* 升級時記得content.htm要停留在某一個版本
-
-* 2.回報問題:
-
-* 如果還是無法處理問題,從課程issues回報問題
-
-</t>
-<t tx="leo.20181108222141.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181108222141.2">### 學習如何畫組合圖
-
-* insert 插入
-* entity 實體
-* mate connector 配對點
-* fastened 接合的
-* revolute 內捲的
-* slider 滑動
-* planar 平面的
-* cylindrical 圓柱狀的
-* pin 針狀
-* solt 溝槽
-* parallel 平行
-
-</t>
-<t tx="leo.20181114204903.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181114204903.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181114204903.3">### 期中考週
-
-
-* 自評成績:76
-
-* 心得:網頁每周更新並跟上進度,努力學習英文.修改網頁的錯誤,雖然困難,但收貨真的非常多.
-
-</t>
-<t tx="leo.20181114204903.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181114204903.5">### 如何利用 Github Classroom 進行期末分組專題倉儲的設定
-
-* 至多六人一組, 按照前三後三的座位就坐
-* 確認座位對應的班級與組別, 組別序號從面對講台, 右邊第一區前三後三為第一組, 中間為第二組, 依此類推
-* 甲班第一組代號為 ag1, 第二組為 ag2 依此類推
-* 以學號對應帳號登入 Github
-* 根據 github classroom 期末專案倉儲連結, 依序加入各對應組別
-
-</t>
-<t tx="leo.20181114205258.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181114205258.2">
-
-
-* 進入githubclass→craete a group assignment→打組別名字 ( ex:final project )
-→打開管理權(起始為mdecrouse/2018fall)→設定人數為6人→deadline為 01/11→new team (bgx)→取得連結
-
-* 組長新建new team(本組為ag2)
-
-* 組員join即可
-
 
 </t>
 <t tx="leo.20190610000412.1">&lt;section&gt;
@@ -674,6 +300,124 @@ make.start()
 * 將樹狀圖處理好成可以轉動的狀態，但只能轉動不能左右移動，還再進行修改。
 
 * [操作影片網址](https://youtu.be/QPWfPGLW2BE)
+
+</t>
+<t tx="leo.20190610001935.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610001935.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610001935.3">### w13
+
+* 這週因為繪圖組的還需要時間畫圖，所以仍然用舊的圖檔進行簡化跟模擬。
+
+* 將球桌簡化，把球門的部分分開來建模，否則形狀會很奇怪，插入桿子的部分，因為洞口的關係，簡化會變得比較複雜，要經過建模變成一體的比較好操作。
+
+* [操作影片網址](https://youtu.be/hDOCdXlDlfs)
+
+</t>
+<t tx="leo.20190610002138.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610002138.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610002138.3">### w14
+
+* 因為繪圖組的出現限制錯誤的問題，所以這週過去支援繪圖組裝的部分。
+
+* 組合圖的組裝尚未完成，錄製如何組裝的影片，由於需反覆的調整與限制方式，所以我們這周與他們討論並一起解決問題。
+
+* [操作影片網址](https://youtu.be/A3jjC_93hVw)
+
+
+
+</t>
+<t tx="leo.20190610002525.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610002525.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610002525.3">### w15
+
+* 將最終圖檔簡化並模擬
+
+* 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
+
+* [操作影片網址](https://youtu.be/ZDHtOGubPOc)
+
+
+
+</t>
+<t tx="leo.20190610002727.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190610002727.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610002727.3">### w16
+
+* 期末組員分別將自己各自負責的部分，在pdf中編輯完畢。
+
+* 我在組別是vrep的模擬部分，在pdf中編寫的是手足球系統模擬，及編寫了部分零組件尺寸分析。
+
+* ag3-1和 scrum-1的倉儲及網站，在17周前修改完成。
+
+* 編寫個人檔案，管理個人倉儲。
+
+
+
+
 
 </t>
 </tnodes>

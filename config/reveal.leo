@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20180915002241.1"><vh>week 1</vh>
+<v t="leo.20180915002241.1" a="E"><vh>week 11</vh>
 <v t="leo.20181026102900.1" a="E"><vh>期中作業-1</vh>
 <v t="leo.20181026102900.2"><vh>期中作業內容-1</vh></v>
 </v>
@@ -46,7 +46,7 @@
 <v t="leo.20181026101905.2"><vh>期中作業內容-2</vh></v>
 </v>
 </v>
-<v t="leo.20180929163133.1"><vh>week 2</vh>
+<v t="leo.20180929163133.1" a="E"><vh>week 2</vh>
 <v t="leo.20180929163133.2"><vh> 說明如何讓部落格有論壇區</vh></v>
 </v>
 <v t="leo.20181004230402.1"><vh>week 3</vh>
@@ -87,17 +87,6 @@
 <v t="leo.20181114205258.1" a="E"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定-3</vh>
 <v t="leo.20181114205258.2"><vh>說明如何利用 Github Classroom 進行期末分組專題倉儲的設定內容-3</vh></v>
 </v>
-</v>
-<v t="leo.20181126215836.1"><vh>week 11</vh>
-<v t="leo.20181126215836.2" a="E"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-1</vh>
-<v t="leo.20181126215836.3"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-內容1</vh></v>
-</v>
-<v t="leo.20181126215836.4" a="E"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-1</vh>
-<v t="leo.20181126215836.5"><vh>利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步-內容2</vh></v>
-</v>
-</v>
-<v t="leo.20181207091056.1"><vh>week 12</vh>
-<v t="leo.20181207091056.2"><vh>學習如何畫組合圖</vh></v>
 </v>
 </v>
 </v>
@@ -185,15 +174,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018 Fall 40623105網際簡報
+<t tx="leo.20180827201621.10">## 協同產品設計實習課程
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623105](https://mdecadp2018.github.io/site-40623105)
 &lt;/small&gt;
 
-[2018 Fall 40623105網誌](./../blog/index.html)
+[40623105 github 個人倉儲](https://github.com/mdecadp2018/site-40623105)
 
 
 </t>
@@ -505,7 +494,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026102900.2">### 管理個人的期中作業網站內容
+<t tx="leo.20181026102900.2">### git
 
 * 登入 Github 後, 從 Github Classroom 連結取得所指定的期中作業倉儲.
 
@@ -697,76 +686,6 @@ make.start()
 
 * 組員join即可
 
-
-</t>
-<t tx="leo.20181126215836.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181126215836.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181126215836.3">#### 利用 Heroku 雲端服務, 伺服各分組的期末專題倉儲中的動態程式, 並與 Github 倉儲內容保持自動同步
-
-
-* 先創一個heroku的帳號
-* 登入後,按new → create new app →名字打 cadp2018-ag2-m2
-* 先去 start.bat 路徑設定 %Disk%:\heroku\bin;
-* 在從命令列打heroku--version→ heroku login
-* 再從settings找到https://git.heroku.com/cadp2018-ag2-m2.git 的網址
-
-
-</t>
-<t tx="leo.20181126215836.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181126215836.5">
-
-
-* 至https://github.com/mdecadp2018/finalproject-ag2 fork自己的帳號
-* git clone https://github.com/mdecadp2018/finalproject-ag2 至tmp底下的資料夾ag2
-* git clone https://git.heroku.com/cadp2018-ag2-m2.git 至tmp底下的資料夾ag2-m2
-* 將ag2資料夾中的檔案複製到ag2-m2的資料夾中
-* git add .→ git commit -m""→git push 
-
-</t>
-<t tx="leo.20181207091056.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181207091056.2">### 分組的期末專題版面架構
-
-* introduction介紹:(a)專題名稱(b)members組員 
-* course課程:每週組別學習紀錄
-* onshape:翻譯網站內容,用法 
-* independent study自主學習:組員自主學習進度與內容
-* issue＆solution問題與解決方法:各組遇到的問題與如何解決問題
-* experience心得:各組組員分組專題後的心得感想
-* attend＆absence出缺席:記錄各組出席狀況
 
 </t>
 </tnodes>
